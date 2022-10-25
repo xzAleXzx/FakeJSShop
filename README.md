@@ -1,0 +1,2 @@
+# FakeJSShop
+Test shop
